@@ -17,3 +17,8 @@ The message format between Artisan and ESP32 is JSON. For example:
 send( {{ "command": "setControlParams",  "fan": 60 }})
 
 is used to set the fan speed as 60%.
+
+Requirements package version:
+Arduino IDE Borads Manager
+esp32 by Espressif: 2.0.17 
+Arduino ESP32 Boards: 2.0.12
