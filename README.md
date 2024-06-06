@@ -18,7 +18,7 @@ send( {{ "command": "setControlParams",  "fan": 60 }})
 
 is used to set the fan speed as 60%.
 
-Requirements package version:
-Arduino IDE Borads Manager
-esp32 by Espressif: 2.0.17 
-Arduino ESP32 Boards: 2.0.12
+Requirements of package version:\n
+Arduino IDE Borads Manager\n
+esp32 by Espressif: 2.0.17\n
+Arduino ESP32 Boards: 2.0.12\n
