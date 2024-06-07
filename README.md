@@ -6,11 +6,16 @@ This program is only for using ESP32 to communicate and control Skywalker roaste
 The WiFi function of ESP32 may not stable, please use this program carefully and take risk by yourself.
 
 Must do:
-1. Set the Config/Port... in Artisan as follows.
+1. Set the Config/Port in Artisan as follows.
 ![Ports configuration](images/config.jpg)
 
 2. Set the Config/Events as follows.
 ![Event Slider configuration](images/Slider.jpg)
+
+3. Set the Config/Device as follows.
+![Device Meter](images/Device.jpg)
+
+or import the config setting file: SkywalkerWebSocket.aset
 
 The message format between Artisan and ESP32 is JSON. For example:
 
